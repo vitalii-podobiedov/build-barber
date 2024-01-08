@@ -148,7 +148,7 @@ button:hover {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-1-left.png)no-repeat left;
+	background: url(assets/img/decoration-1-left.png)no-repeat left;
 	z-index: 1;
 }
   
@@ -161,7 +161,7 @@ button:hover {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-1-right.png) no-repeat right;
+	background: url(assets/img/decoration-1-right.png) no-repeat right;
 	z-index: 1;
 }
 
@@ -207,7 +207,7 @@ button:hover {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-left.png) no-repeat left;
+	background: url(assets/img/decoration-left.png) no-repeat left;
 	z-index: 1;
 }
 
@@ -218,7 +218,7 @@ button:hover {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-right.png) no-repeat right;
+	background: url(assets/img/decoration-right.png) no-repeat right;
 	z-index: 1;
 }
 
@@ -229,7 +229,7 @@ button:hover {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-left-3.png) no-repeat left;
+	background: url(assets/img/decoration-left-3.png) no-repeat left;
 	z-index: 1;
 }
 
@@ -240,7 +240,7 @@ button:hover {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-right-3.png) no-repeat right;
+	background: url(assets/img/decoration-right-3.png) no-repeat right;
 	z-index: 1;
 }
 
@@ -372,7 +372,7 @@ button:hover {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-3-left.png) no-repeat left;
+	background: url(assets/img/decoration-3-left.png) no-repeat left;
 	z-index: 1;
 }
 
@@ -383,7 +383,7 @@ button:hover {
 	right: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../img/decoration-3-right.png) no-repeat right;
+	background: url(assets/img/decoration-3-right.png) no-repeat right;
 	z-index: 1;
 }
 
